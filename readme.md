@@ -29,7 +29,7 @@
 
 Aplikasi Android (versi `.apk`) sudah dirilis secara resmi dan dapat diunduh langsung melalui tautan di bawah ini:
 
-**[🌐 Buka Halaman Unduhan Resmi Cable Validator](https://shinjifebriyanto.github.io/cable-validator-download/)**
+**🌐 [Buka Halaman Unduhan Resmi Cable Validator](https://shinjifebriyanto.github.io/cable-validator-download/)**
 
 ---
 *Proyek Tugas Akhir ini dikembangkan oleh **Shinji Febriyanto** - Teknik Komputer*
